@@ -1,0 +1,18 @@
+{
+    "AS_Form_db6adb22b26f45afbffa1671723ae64f": {
+        "id": "AS_Form_db6adb22b26f45afbffa1671723ae64f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "j2e386ce696e44bcad97e96e716d9cf7"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "keys": [
+        "doctor_appointment",
+        "health",
+        "health_insurance",
+        "insurance",
+        "mobile_recharge",
+        "nearby_hsptls",
+        "planner",
+        "saving",
+        "shop",
+        "transfer_to_card",
+        "transfer_to_mobile",
+        "travel",
+        "vouchers"
+    ],
+    "locales": {
+        "en": {
+            "i18nStrings": {
+                "doctor_appointment": "Doctor Appointment",
+                "health": "Health",
+                "health_insurance": "Health Insurance",
+                "insurance": "Insurance",
+                "mobile_recharge": "Mobile Recharge",
+                "nearby_hsptls": "Near By Hospital & Pharmacy",
+                "planner": "Monthly Planner",
+                "saving": "Saving & Deposit",
+                "shop": "Shop Online",
+                "transfer_to_card": "Transfer to Card",
+                "transfer_to_mobile": "Transfer to Mobile",
+                "travel": "Travel",
+                "vouchers": "Digital Vouchers"
+            },
+            "isCustomLocale": false,
+            "isSelected": true,
+            "layoutConfig": {
+                "mirrorContentAlignment": false,
+                "mirrorFlexPositionProperties": false,
+                "mirrorFlowHorizontalAlignment": false
+            }
+        }
+    }
+}

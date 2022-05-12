@@ -1,0 +1,28 @@
+{
+    "AS_Form_acf1de8ef04b4d8197b4f1d23475d94b": {
+        "id": "AS_Form_acf1de8ef04b4d8197b4f1d23475d94b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboardItemDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "i68de625cd8e454298ce2d67d56b8377"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___dafc50bda50245a880bdd32efd2180e6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setShadowOnFlexContainer",
+            "display": "setShadowOnFlexContainer",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

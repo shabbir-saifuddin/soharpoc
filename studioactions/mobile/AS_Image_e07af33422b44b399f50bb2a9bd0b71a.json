@@ -1,0 +1,34 @@
+{
+    "AS_Image_e07af33422b44b399f50bb2a9bd0b71a": {
+        "id": "AS_Image_e07af33422b44b399f50bb2a9bd0b71a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashboardItemDetails",
+            "type": "forms",
+            "platform": null,
+            "KUID": "i68de625cd8e454298ce2d67d56b8377"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___dd6cfeaac9b4490581a81f4ed9aafab3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "navigateToDashboard",
+            "display": "navigateToDashboard",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}
